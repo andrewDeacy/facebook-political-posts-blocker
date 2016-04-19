@@ -1,7 +1,8 @@
 {
   "manifest_version": 2,
   "name": "Facebook Political Posts Blocker",
-  "version": "0.0.1",
+  "short_name": "FB Post Blocker",
+  "version": "0.0.2",
   "description": "Hide all posts about the presidential election on your Facebook timeline.",
   "author": "Mike Boyle",
   "content_scripts": [
