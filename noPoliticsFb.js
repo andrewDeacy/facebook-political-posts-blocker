@@ -1,5 +1,5 @@
 function hidePoliticalPosts() {
-    var forbidden = ['bernie', 'hillary', 'sanders', 'clinton', 'trump', 'drumpf', '#feelthebern', 'cruz', 'rubio', 'kasich', 'little marco', 'superdelegate'];
+    var forbidden = ['bernie', 'hillary', 'sanders', 'clinton', 'trump', 'drumpf', 'donald', 'president', '2016', 'election', 'electionnight', 'politics'];
     var posts = document.getElementsByClassName('userContentWrapper');
     if (posts.length < 1) {
         // keep looking until .userContentWrapper divs appear
